@@ -59,7 +59,7 @@ export const data = [{
     "first_name": "Sallyanne",
     "last_name": "Epilet",
     "email": "sepilet8@ebay.com",
-    "gender": "Genderfluid",
+    "gender": "Male",
     "ip_address": "39.169.52.242"
   }, {
     "id": 10,
@@ -129,7 +129,7 @@ export const data = [{
     "first_name": "Mercedes",
     "last_name": "Welford",
     "email": "mwelfordi@histats.com",
-    "gender": "Non-binary",
+    "gender": "Female",
     "ip_address": "115.49.129.100"
   }, {
     "id": 20,
@@ -444,7 +444,7 @@ export const data = [{
     "first_name": "Chance",
     "last_name": "Bassilashvili",
     "email": "cbassilashvili1r@indiegogo.com",
-    "gender": "Genderqueer",
+    "gender": "Polygender",
     "ip_address": "135.7.144.39"
   }, {
     "id": 65,
@@ -465,7 +465,7 @@ export const data = [{
     "first_name": "Emmy",
     "last_name": "Rieme",
     "email": "erieme1u@wikipedia.org",
-    "gender": "Genderfluid",
+    "gender": "Male",
     "ip_address": "173.199.128.212"
   }, {
     "id": 68,
